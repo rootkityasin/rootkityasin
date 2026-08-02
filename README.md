@@ -55,13 +55,13 @@ I am a passionate **AI & Software Engineer** specializing in architecting **scal
 ---
 
 ## ⚡ AI SaaS Architecture & Approach
-## ⚡ AI SaaS Architecture & Approach
 
+```
 ┌─────────────────┐       ┌─────────────────┐       ┌────────────────────────┐
 │  Next.js Client │  <--  │  FastAPI Engine │  <--  │ AI Models & Vector DB  │
 │  (Modern Frontend)     │ (Scalable Microservice)  │ (OpenAI/Gemini/LangChain)│
 └─────────────────┘       └─────────────────┘       └────────────────────────┘
-
+```
 
 1. **Scalability First:** Decoupled frontend (Next.js) and high-speed backend microservices (FastAPI).
 2. **Context-Aware AI:** Utilizing RAG architectures, vector databases, and agentic workflows to deliver zero-hallucination AI responses.

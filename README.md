@@ -55,3 +55,35 @@ I am a passionate **AI & Software Engineer** specializing in architecting **scal
 ---
 
 ## ⚡ AI SaaS Architecture & Approach
+## ⚡ AI SaaS Architecture & Approach
+
+┌─────────────────┐       ┌─────────────────┐       ┌────────────────────────┐
+│  Next.js Client │  <--  │  FastAPI Engine │  <--  │ AI Models & Vector DB  │
+│  (Modern Frontend)     │ (Scalable Microservice)  │ (OpenAI/Gemini/LangChain)│
+└─────────────────┘       └─────────────────┘       └────────────────────────┘
+
+
+1. **Scalability First:** Decoupled frontend (Next.js) and high-speed backend microservices (FastAPI).
+2. **Context-Aware AI:** Utilizing RAG architectures, vector databases, and agentic workflows to deliver zero-hallucination AI responses.
+3. **Cloud Native:** Containerized deployments on Google Cloud Platform with automated CI/CD pipelines.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootkityasin&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootkityasin&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect & Build!
+
+* **GitHub:** [@rootkityasin](https://github.com/rootkityasin)
+* **Specialties:** AI SaaS Development, Custom AI Agents, LLM Integrations, Full-Stack SaaS
+* **Collaboration:** Open for freelance contracts, full-stack AI SaaS development, and technical consultations.
+
+<p align="center">
+  <b><i>Building the future of AI software, one commit at a time.</i></b>
+</p>

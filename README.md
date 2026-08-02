@@ -1,4 +1,4 @@
-# Hi there, I'm Yasin Arafat 👋 
+# Hi there, I'm Yasin Arafat 👋
 ### 🚀 AI Engineer | AI SaaS Architect | Scalable Systems Developer
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **AI & Software Engineer** specializing in architecting **scalable systems**, **custom AI integrations**, and high-performance **AI SaaS platforms**. I bridge the gap between cutting-edge Machine Learning models (LLMs, RAG, Autonomous Agents) and production-grade full-stack backends.
+I am an **AI & Software Engineer** specializing in architecting **scalable systems**, **custom AI integrations**, and high-performance **AI SaaS platforms**. I bridge the gap between cutting-edge Machine Learning models (LLMs, RAG, Autonomous Agents) and production-grade full-stack backends.
 
 * 🤖 **Core Focus:** AI Agent Orchestration, LLM Fine-Tuning/RAG, High-Load Backend Architecture, AI SaaS Development.
 * ⚡ **Tech Architecture:** Designing fast, resilient systems using **FastAPI**, **Next.js**, **PostgreSQL/MongoDB**, and **GCP**.
@@ -48,7 +48,7 @@ I am a passionate **AI & Software Engineer** specializing in architecting **scal
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | 🤖 **Bizz Assistant** | AI-driven business operation & automation platform built to streamline administrative tasks and workflows. | Python, OpenAI, FastAPI, React | [Repo](https://github.com/rootkityasin) |
-| 🧵 **Thread Agent** | Autonomous AI workflow agent capable of executing multi-step tasks, internet queries, and context analysis. | Python, LangChain, Gemini, FastAPI | [Repo](https://github.com/rootkityasin) |
+| 🧵 **Threadiv** | Autonomous AI workflow & agent engine capable of executing multi-step tasks, web research, and thread context analysis. | Python, LangChain, Gemini, FastAPI | [Repo](https://github.com/rootkityasin) |
 | 🎬 **Movie Finder** | Smart interactive recommendation platform leveraging semantic search and contextual AI analysis. | Next.js, Python, PostgreSQL, REST API | [Repo](https://github.com/rootkityasin) |
 | 💰 **Expense Tracker** | Modern full-stack financial dashboard for automated expense tracking, categorization, and analytics. | Next.js, MongoDB, FastAPI | [Repo](https://github.com/rootkityasin) |
 
@@ -56,34 +56,7 @@ I am a passionate **AI & Software Engineer** specializing in architecting **scal
 
 ## ⚡ AI SaaS Architecture & Approach
 
-```
-┌─────────────────┐       ┌─────────────────┐       ┌────────────────────────┐
-│  Next.js Client │  <--  │  FastAPI Engine │  <--  │ AI Models & Vector DB  │
-│  (Modern Frontend)     │ (Scalable Microservice)  │ (OpenAI/Gemini/LangChain)│
-└─────────────────┘       └─────────────────┘       └────────────────────────┘
-```
-
-1. **Scalability First:** Decoupled frontend (Next.js) and high-speed backend microservices (FastAPI).
-2. **Context-Aware AI:** Utilizing RAG architectures, vector databases, and agentic workflows to deliver zero-hallucination AI responses.
-3. **Cloud Native:** Containerized deployments on Google Cloud Platform with automated CI/CD pipelines.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootkityasin&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootkityasin&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📫 Let's Connect & Build!
-
-* **GitHub:** [@rootkityasin](https://github.com/rootkityasin)
-* **Specialties:** AI SaaS Development, Custom AI Agents, LLM Integrations, Full-Stack SaaS
-* **Collaboration:** Open for freelance contracts, full-stack AI SaaS development, and technical consultations.
-
-<p align="center">
-  <b><i>Building the future of AI software, one commit at a time.</i></b>
-</p>
+```mermaid
+graph LR
+    A[<b>Next.js Client</b><br/><i>Modern Frontend</i>] <--> B[<b>FastAPI Engine</b><br/><i>Scalable Microservice</i>]
+    B <--> C[<b>AI Models & Vector DB</b><br/><i>OpenAI / Gemini / LangChain</i>]

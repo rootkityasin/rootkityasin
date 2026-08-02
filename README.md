@@ -17,6 +17,19 @@ I am an **AI & Software Engineer** specializing in architecting **scalable syste
 
 ---
 
+
+
+
+## 🏢 Founder [Threadiv](https://github.com/orgs/Threadiv)
+
+I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a specialized engineering collective where every section of product development is handled by dedicated domain experts. Instead of generalists, we operate as a tightly-knit, high-velocity engineering team:
+
+| 🤖 2x AI / ML Engineers | ⚙️ 2x Backend Architect | 🎨 1x Frontend Expert | 📐 1x UI/UX & Figma |
+| :--- | :--- | :--- | :--- |
+| **Focus:** LLMs, RAG, Core | **Focus:** FastAPI, Python | **Focus:** Next.js, React | **Focus:** Product Design |
+| [Yasin Arafat](https://github.com/rootkityasin)<br>[Shayanta Shopnil](https://github.com/sshopnil) | [Shayanta Shopnil](https://github.com/sshopnil)<br>[A. S. M. Muhit Khan](https://github.com/MuhitKhanTaosif) | [Sahadat Islam Evan](https://github.com/combo666) | [Sahadat Islam Evan](https://github.com/combo666) |
+
+
 ## 🛠️ Tech Stack & Engineering Toolkit
 
 ### 🧠 AI & Machine Learning

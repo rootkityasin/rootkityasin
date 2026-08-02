@@ -60,12 +60,11 @@ I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a speciali
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
+| ✉️ **LabsMail** | High-performance SaaS email infrastructure with an event-driven architecture, asynchronous background workers, and automated domain syncing. *(Private)* | Next.js, NestJS, PostgreSQL, Redis, BullMQ | [Live](labsmail.net) |
+| 🛒 **Biztar** | Enterprise omnichannel e-commerce & kitchen management platform for live seafood delivery with ISO 27001/SOC 2 compliance controls. *(Private)* | Next.js 16, Prisma, PostgreSQL, Tailwind CSS | [Live](#) |
 | 🤖 **Bizz Assistant** | AI-driven business operation & automation platform built to streamline administrative tasks and workflows. | Python, OpenAI, FastAPI, React | [Repo](https://github.com/rootkityasin) |
-| 🧵 **Threadiv** | Autonomous AI workflow & agent engine capable of executing multi-step tasks, web research, and thread context analysis. | Python, LangChain, Gemini, FastAPI | [Repo](https://github.com/rootkityasin) |
 | 🎬 **Movie Finder** | Smart interactive recommendation platform leveraging semantic search and contextual AI analysis. | Next.js, Python, PostgreSQL, REST API | [Repo](https://github.com/rootkityasin) |
 | 💰 **Expense Tracker** | Modern full-stack financial dashboard for automated expense tracking, categorization, and analytics. | Next.js, MongoDB, FastAPI | [Repo](https://github.com/rootkityasin) |
-
----
 
 ## ⚡ AI SaaS Architecture & Approach
 

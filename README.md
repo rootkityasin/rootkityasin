@@ -1,36 +1,113 @@
-# Hi there 👋, I'm Yasin Arafat
+# Hi there, I'm Yasin Arafat 👋 
+### 🚀 AI Engineer | AI SaaS Architect | Scalable Systems Developer
 
-**🚀 Tech Entrepreneur | Web Developer | Cyber Security Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AI+Engineering+%26+LLM+Integrations;Building+Scalable+AI+SaaS+Platforms;FastAPI+%2B+Next.js+%2B+GCP;Autonomous+AI+Agents+%26+Workflows" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub! I'm a passionate developer and the CEO/Co-founder of **90s Labs**, an IT agency dedicated to building fast, modern, and automated web solutions. With a background in Computer Science and Engineering, I love blending software development with entrepreneurial problem-solving.
+---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🏢 **Currently building:** High-performance web applications (like Next.js frontends and automated dashboards) for diverse clients.
-- 🤖 **Exploring:** Local AI deployments (Ollama, Gemma) and advanced server-side tracking via VPS.
-- 🔐 **Learning:** Diving deep into Cyber Security and preparing for advanced studies in the field.
-- 🎓 **Education:** BSc in Computer Science & Engineering from UIU.
-- 🌍 **Location:** Dhaka, Bangladesh.
+I am a passionate **AI & Software Engineer** specializing in architecting **scalable systems**, **custom AI integrations**, and high-performance **AI SaaS platforms**. I bridge the gap between cutting-edge Machine Learning models (LLMs, RAG, Autonomous Agents) and production-grade full-stack backends.
 
-### 🛠️ Tech Stack & Tools
+* 🤖 **Core Focus:** AI Agent Orchestration, LLM Fine-Tuning/RAG, High-Load Backend Architecture, AI SaaS Development.
+* ⚡ **Tech Architecture:** Designing fast, resilient systems using **FastAPI**, **Next.js**, **PostgreSQL/MongoDB**, and **GCP**.
+* 🔄 **Workflow:** 100% Agile (Scrum & Kanban) with structured sprint planning and clean, test-driven code.
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=security&logoColor=white)
+---
 
-- **Development:** Building modern, fast, and scalable websites. 
-- **Infrastructure & Automation:** VPS setup, backend automation, and server-side tracking.
-- **Interests:** AI/LLMs, Cyber Security, and E-commerce automation.
+## 🛠️ Tech Stack & Engineering Toolkit
 
-### 📈 GitHub Stats
+### 🧠 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FAD?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootkityasin&show_icons=true&theme=tokyonight&hide_border=true" alt="Yasin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootkityasin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### 💻 Backend & Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📫 How to reach me
+### 🌐 Frontend & Cloud Infra
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Open to collaborations on exciting web development or cyber security projects! 
-- Drop a star ⭐ on my repositories if you find them useful.
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🤖 **Bizz Assistant** | AI-driven business operation & automation platform built to streamline administrative tasks and workflows. | Python, OpenAI, FastAPI, React | [Repo](https://github.com/rootkityasin) |
+| 🧵 **Thread Agent** | Autonomous AI workflow agent capable of executing multi-step tasks, internet queries, and context analysis. | Python, LangChain, Gemini, FastAPI | [Repo](https://github.com/rootkityasin) |
+| 🎬 **Movie Finder** | Smart interactive recommendation platform leveraging semantic search and contextual AI analysis. | Next.js, Python, PostgreSQL, REST API | [Repo](https://github.com/rootkityasin) |
+| 💰 **Expense Tracker** | Modern full-stack financial dashboard for automated expense tracking, categorization, and analytics. | Next.js, MongoDB, FastAPI | [Repo](https://github.com/rootkityasin) |
+
+---
+
+## ⚡ AI SaaS Architecture & Approach# Hi there, I'm Yasin Arafat 👋 
+### 🚀 AI Engineer | AI SaaS Architect | Scalable Systems Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AI+Engineering+%26+LLM+Integrations;Building+Scalable+AI+SaaS+Platforms;FastAPI+%2B+Next.js+%2B+GCP;Autonomous+AI+Agents+%26+Workflows" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate **AI & Software Engineer** specializing in architecting **scalable systems**, **custom AI integrations**, and high-performance **AI SaaS platforms**. I bridge the gap between cutting-edge Machine Learning models (LLMs, RAG, Autonomous Agents) and production-grade full-stack backends.
+
+* 🤖 **Core Focus:** AI Agent Orchestration, LLM Fine-Tuning/RAG, High-Load Backend Architecture, AI SaaS Development.
+* ⚡ **Tech Architecture:** Designing fast, resilient systems using **FastAPI**, **Next.js**, **PostgreSQL/MongoDB**, and **GCP**.
+* 🔄 **Workflow:** 100% Agile (Scrum & Kanban) with structured sprint planning and clean, test-driven code.
+
+---
+
+## 🛠️ Tech Stack & Engineering Toolkit
+
+### 🧠 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FAD?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 💻 Backend & Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🌐 Frontend & Cloud Infra
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🤖 **Bizz Assistant** | AI-driven business operation & automation platform built to streamline administrative tasks and workflows. | Python, OpenAI, FastAPI, React | [Repo](https://github.com/rootkityasin) |
+| 🧵 **Thread Agent** | Autonomous AI workflow agent capable of executing multi-step tasks, internet queries, and context analysis. | Python, LangChain, Gemini, FastAPI | [Repo](https://github.com/rootkityasin) |
+| 🎬 **Movie Finder** | Smart interactive recommendation platform leveraging semantic search and contextual AI analysis. | Next.js, Python, PostgreSQL, REST API | [Repo](https://github.com/rootkityasin) |
+| 💰 **Expense Tracker** | Modern full-stack financial dashboard for automated expense tracking, categorization, and analytics. | Next.js, MongoDB, FastAPI | [Repo](https://github.com/rootkityasin) |
+
+---
+
+## ⚡ AI SaaS Architecture & Approach

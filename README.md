@@ -24,10 +24,10 @@ I am an **AI & Software Engineer** specializing in architecting **scalable syste
 
 I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a specialized engineering collective where every section of product development is handled by dedicated domain experts. Instead of generalists, we operate as a tightly-knit, high-velocity engineering team:
 
-| 🤖 2x AI / ML Engineers | ⚙️ 2x Backend Architect | 🎨 1x Frontend Expert | 📐 1x UI/UX & Figma |
+| 🤖 2x AI / ML Engineers | 🎨 1x UI/UX & Frontend Expert | ⚙️ 2x Backend Architect | ☁️ 1x Cloud Engineer |
 | :--- | :--- | :--- | :--- |
-| **Focus:** LLMs, RAG, Core | **Focus:** FastAPI, Python | **Focus:** Next.js, React | **Focus:** Product Design |
-| [Yasin Arafat](https://github.com/rootkityasin)<br>[Shayanta Shopnil](https://github.com/sshopnil) | [Shayanta Shopnil](https://github.com/sshopnil)<br>[A. S. M. Muhit Khan](https://github.com/MuhitKhanTaosif) | [Sahadat Islam Evan](https://github.com/combo666) | [Sahadat Islam Evan](https://github.com/combo666) |
+| **Focus:** LLMs, RAG, Core | **Focus:** Product Design, Next.js, React | **Focus:** FastAPI, Python | **Focus:** DevOps, AWS, Docker |
+| [Yasin Arafat](https://github.com/rootkityasin)<br>[Shayanta Shopnil](https://github.com/sshopnil) | [Sahadat Islam Evan](https://github.com/combo666) | [Shayanta Shopnil](https://github.com/sshopnil)<br>[A. S. M. Muhit Khan](https://github.com/MuhitKhanTaosif) | [A. S. M. Muhit Khan](https://github.com/MuhitKhanTaosif) |
 
 
 ## 🛠️ Tech Stack & Engineering Toolkit
@@ -41,6 +41,14 @@ I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a speciali
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🧰 Software Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 ### 💻 Backend & Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,10 +56,8 @@ I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a speciali
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🌐 Frontend & Cloud Infra
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -66,9 +72,17 @@ I am the founder of [**Threadiv**](https://github.com/orgs/Threadiv), a speciali
 | 🎬 **Movie Finder** | Smart interactive recommendation platform leveraging semantic search and contextual AI analysis. | Next.js, Python, PostgreSQL, REST API | [Repo](https://github.com/rootkityasin) |
 | 💰 **Expense Tracker** | Modern full-stack financial dashboard for automated expense tracking, categorization, and analytics. | Next.js, MongoDB, FastAPI | [Repo](https://github.com/rootkityasin) |
 
-## ⚡ AI SaaS Architecture & Approach
+## ⚡ Software Development Life Cycle
 
 ```mermaid
 graph LR
-    A[<b>Next.js Client</b><br/><i>Modern Frontend</i>] <--> B[<b>FastAPI Engine</b><br/><i>Scalable Microservice</i>]
-    B <--> C[<b>AI Models & Vector DB</b><br/><i>OpenAI / Gemini / LangChain</i>]
+    A[<b>Stage 01: Requirement Analysis</b><br/><i>Discovery & Feasibility</i>] --> B[<b>Stage 02: System & UX Design</b><br/><i>Architecture & Wireframes</i>]
+    B --> C[<b>Stage 03: Engineering & Build</b><br/><i>Clean Code Construction</i>]
+    C --> D[<b>Stage 04: QA & Security Audit</b><br/><i>Testing & Hardening</i>]
+    D --> E[<b>Stage 05: Deploy & Maintenance</b><br/><i>Production & SLA Support</i>]
+
+    style A fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style B fill:#581c87,stroke:#c084fc,stroke-width:2px,color:#fff
+    style C fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#fff
+    style D fill:#7c2d12,stroke:#fdba74,stroke-width:2px,color:#fff
+    style E fill:#831843,stroke:#f472b6,stroke-width:2px,color:#fff
